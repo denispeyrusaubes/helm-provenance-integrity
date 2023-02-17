@@ -5,7 +5,8 @@
 
 ## Objectif
 
-Cette issue a pour objectif d'expliquer la mise en place de la signature d'un chart Helm signé et son déploiement dans Kubernetes :
+Cette repo a pour objectif d'expliquer la mise en place de la signature d'un chart Helm signé et son déploiement dans Kubernetes :
+
 - A la main
 - Via argoCD
 
