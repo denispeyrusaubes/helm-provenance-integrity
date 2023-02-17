@@ -109,7 +109,7 @@ helm install --generate-name --verify test-chart-0.1.0.tgz
 
 ## ArgoCD et Kubernetes
 
-[D]ocumentation Officielle](https://argo-cd.readthedocs.io/en/stable/user-guide/gpg-verification/)
+[Documentation Officielle](https://argo-cd.readthedocs.io/en/stable/user-guide/gpg-verification/)
 
 Il est mentionnée que :
 
